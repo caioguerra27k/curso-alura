@@ -10,3 +10,4 @@ Para rodar esse projeto na sua maquina, por favor digite:
 npm install react (Exemplo usado para arquivo/código/atalho em JS)
 
 ```
+//Readme = ESSENCIAL/INDISPENSÀVEL
