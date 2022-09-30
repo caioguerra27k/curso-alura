@@ -12,5 +12,3 @@ node app.js
 //npm install react (Exemplo usado para arquivo/código/atalho em JS)
 //Readme = ESSENCIAL/INDISPENSÀVEL
 //node app.js = novo código que eu escrevi com o Console.log
-
-:)
